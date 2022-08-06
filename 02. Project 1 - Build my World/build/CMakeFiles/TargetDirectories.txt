@@ -1,3 +1,0 @@
-/home/robond/Desktop/Robotics Software Engineer Nanodegree/02. Project 1 - Build my World/build/CMakeFiles/edit_cache.dir
-/home/robond/Desktop/Robotics Software Engineer Nanodegree/02. Project 1 - Build my World/build/CMakeFiles/rebuild_cache.dir
-/home/robond/Desktop/Robotics Software Engineer Nanodegree/02. Project 1 - Build my World/build/CMakeFiles/welcome_message.dir
