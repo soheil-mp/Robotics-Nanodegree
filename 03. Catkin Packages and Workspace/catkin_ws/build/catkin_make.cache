@@ -1,0 +1,2 @@
+simple_arm
+-DCATKIN_DEVEL_PREFIX=/home/robond/Desktop/Robotics Software Engineer Nanodegree/03. Workspaces and Packages in Catkin/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robond/Desktop/Robotics Software Engineer Nanodegree/03. Workspaces and Packages in Catkin/catkin_ws/install -G Unix Makefiles
